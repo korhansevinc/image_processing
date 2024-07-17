@@ -14,3 +14,5 @@ Differet implementations of Median Filter, center weighted median filter and com
 Implementations of adaptive mean and median filters.
 
 # Exercise 5 : Implementation, Usage and Importants of Integral Image
+
+# Exercise 6 : Usage of SLIC, k-means clustering on super pixels and image-stitching.
